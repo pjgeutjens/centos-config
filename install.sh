@@ -3,6 +3,10 @@
 # install packages
 sudo yum install -y i3 terminator
 
+#setting i3 as MATE window-manager
+sudo dconf write /org/mate/desktop/session/required-components/windowmanager "'i3'"
+sudo dconf write /org/mate/desktop/background/show-desktop-icons "false"
+
 # install fonts
 ./fonts/install.sh
 
