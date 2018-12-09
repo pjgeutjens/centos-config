@@ -8,8 +8,7 @@ sudo yum install -y i3 terminator
 
 # copy config for terminator and i3
 echo "copying terminator and i3 configs" 
-cp -rf .config/terminator $HOME
-cp -rf .config/i3 $HOME
+cp -rf .config/ $HOME
 
 # copy vim settings
 echo "copying .vim folder"
