@@ -8,3 +8,13 @@
        CPE OS Name: cpe:/o:centos:centos:7
             Kernel: Linux 3.10.0-957.1.3.el7.x86_64
       Architecture: x86-64
+   Static hostname: centos-dev.mgnt.belbone.be
+         Icon name: computer-vm
+           Chassis: vm
+        Machine ID: 55f9bb2eedaf449ba9e2f90a449e82c2
+           Boot ID: 4bad01fc265644fa8577c7a8f60fe237
+    Virtualization: kvm
+  Operating System: CentOS Linux 7 (Core)
+       CPE OS Name: cpe:/o:centos:centos:7
+            Kernel: Linux 3.10.0-957.1.3.el7.x86_64
+      Architecture: x86-64
