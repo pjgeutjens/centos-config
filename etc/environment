@@ -1,0 +1,11 @@
+HTTP_PROXY="http://172.19.155.130:8080/"
+HTTPS_PROXY="http://172.19.155.130:8080/"
+FTP_PROXY="http://172.19.155.130:8080/"
+
+
+http_proxy="http://172.19.155.130:8080/"
+https_proxy="http://172.19.155.130:8080/"
+ftp_proxy="http://172.19.155.130:8080/"
+
+NO_PROXY="localhost,127.0.0.1,.belbone.be"
+no_proxy="localhost,127.0.0.1,.belbone.be"
